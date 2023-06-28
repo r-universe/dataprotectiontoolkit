@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "SDCNway"]
 	path = SDCNway
 	url = https://github.com/dataprotectiontoolkit/sdcnway
-	shallow = true
-	registered = true
